@@ -7,3 +7,4 @@ const toggleNavbar = () => {
 	nav_header.classList.toggle('active')
 }
 mobile_nav.addEventListener('click' , () => toggleNavbar())
+ 
