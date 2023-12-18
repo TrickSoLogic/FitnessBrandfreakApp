@@ -8,7 +8,7 @@ FitnessBrandfreak offers a diverse collection of fitness products, including clo
 
 ## Installation
 
-Clone the repository and open the project in your preferred code editor. Ensure you have Node.js installed. Run `npm install` to install dependencies. Use `npm start` to launch the application.
+Clone the repository and open the project in your preferred code editor. Ensure you have Node.js installed. Run `npm install` to install dependencies. Use `npm start` to launch the application. 
 
 ## Usage
 
